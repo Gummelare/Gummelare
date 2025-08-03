@@ -6,7 +6,7 @@
 👩🏻‍🎓 I help brands communicate visually through thoughtful and impactful design<br/>
 🎨 Proficient in Adobe Creative Suite, Figma, and visual storytelling<br/>
 🌷 Currently learning more about motion graphics and UI/UX<br/>
-💭  Based in Jakarta, open to freelance & collaboration opportunities!<br/>
+💭  Based in Jakarta
 
 # 👉 About Me:
 Perkenalkan Saya Rahmat Agung Saya seorang pelajar di jurusan Sistem,informasi,jaringan dan aplikasi (SIJA)dengan minat besar pada teknologi design grafis dan pengembangan aplikasi ,saya juga aktif dalam beberapa kompetisi yang meningkatkan skills editing design dan kreatifitas saya
