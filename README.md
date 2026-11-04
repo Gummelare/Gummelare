@@ -22,12 +22,9 @@
 
 ```bash
 $ whoami
-  Nama     : Nama Kamu
+  Nama     : Rahmat Agung
   Role     : Network Enthusiast
-  Lokasi   : Kota, Negara
-
-$ cat now.txt
-  📚 Lagi belajar  : Network Fundamentals
+  Lokasi   : Jakarta
 ```
 
 <br/>
