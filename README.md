@@ -23,64 +23,12 @@
 ```bash
 $ whoami
   Nama     : Nama Kamu
-  Role     : IT Infrastructure & Network Engineer
+  Role     : Network Enthusiast
   Lokasi   : Kota, Negara
-  Fokus    : Switching · Routing · Firewall · VPN · Monitoring
 
 $ cat now.txt
-  🔭 Lagi bangun   : home lab (VLAN, OSPF, firewall HA)
-  📚 Lagi belajar  : Network Automation, Zero Trust
-  🎯 Target        : CCNA → CCNP
+  📚 Lagi belajar  : Network Fundamentals
 ```
-
-<br/>
-
-<!-- ============ PROJECTS ============ -->
-## `~/projects`
-
-| Project | Yang dibuktikan |
-|:--|:--|
-| **[Nama Project 1](https://github.com/YOUR_USERNAME/project-1)** | Contoh: VLAN, inter-VLAN routing, ACL, dan DHCP |
-| **[Nama Project 2](https://github.com/YOUR_USERNAME/project-2)** | Contoh: Site-to-site VPN IPsec antar dua cabang |
-| **[Nama Project 3](https://github.com/YOUR_USERNAME/project-3)** | Contoh: Firewall HA dengan failover otomatis |
-| **[Nama Project 4](https://github.com/YOUR_USERNAME/project-4)** | Contoh: Monitoring jaringan dengan dashboard dan alert |
-
-<div align="right"><a href="https://github.com/YOUR_USERNAME?tab=repositories"><sub>lihat semua project →</sub></a></div>
-
-<br/>
-
-<!-- ============ TECH STACK ============ -->
-## `~/stack`
-
-<div align="center">
-
-**Network & Routing**<br/>
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5ff)
-![VLAN](https://img.shields.io/badge/VLAN-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5ff)
-![BGP](https://img.shields.io/badge/BGP-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5ff)
-
-**Security**<br/>
-![Fortinet](https://img.shields.io/badge/Fortinet-ee3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171a?style=for-the-badge&logo=wireguard&logoColor=white)
-![IPsec](https://img.shields.io/badge/IPsec_VPN-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5ff)
-
-**Systems & Virtualization**<br/>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-**Tools & Monitoring**<br/>
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5ff)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5ff)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
-
-</div>
 
 <br/>
 
@@ -92,10 +40,7 @@ $ cat now.txt
 
 | # | Topik | Status | Catatan singkat |
 |:-:|:--|:-:|:--|
-| 01 | [**Network Fundamentals**](journey/01-network-fundamentals.md) | ✅ | OSI, TCP/IP, subnetting, ARP |
-| 02 | [**Switching & VLAN**](journey/02-switching-vlan.md) | 🔄 | Trunking, STP, inter-VLAN routing |
-| 03 | [**Routing**](journey/03-routing.md) | 🔜 | Static, OSPF, BGP dasar |
-| 04 | [**Firewall & VPN**](journey/04-firewall-vpn.md) | 🔜 | Policy, NAT, IPsec, WireGuard |
+| 01 | [**Network Fundamentals**](journey/01-network-fundamentals.md) | 🔄 | OSI, TCP/IP, subnetting, ARP |
 
 <sub>Mau tambah journey baru? Lihat cara di <a href="journey/README.md">journey/README.md</a>.</sub>
 
