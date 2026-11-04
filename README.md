@@ -1,47 +1,89 @@
 
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="IT Infrastructure and Networking Banner">
+<!-- HEADER -->
+<h1>IT Infrastructure & Networking</h1>
 
-# IT Infrastructure & Networking Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=IT+Infrastructure+Enthusiast;Networking+%26+System+Administration;Learning+by+Building" alt="Typing animation" />
 
-**Learning | Building | Exploring**
+<br>
 
-Passionate about Networking, System Administration,
-IT Infrastructure, and Cloud Computing.
+<sub>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; EXPLORE &nbsp; / &nbsp; DOCUMENT</sub>
 
-Currently developing my technical skills through
-hands-on labs and personal projects.
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
 
-### Areas of Interest
+### 01 / About Me
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-049fd9)
-![Linux](https://img.shields.io/badge/Linux-Administration-333333)
-![Windows](https://img.shields.io/badge/Windows-Server-0078d4)
-![Cloud](https://img.shields.io/badge/Cloud-Computing-2563eb)
+I'm an **IT Infrastructure & Networking Enthusiast**
+with a strong interest in computer networks,
+server administration, and cloud infrastructure.
 
-### Currently Learning
+I enjoy exploring how systems communicate,
+how networks are designed, and how infrastructure
+can be built, managed, and secured.
 
-- Computer Networking and TCP/IP
-- Cisco Routing and Switching
-- VLAN and Network Segmentation
-- Windows Server Administration
-- Linux System Administration
-- Virtualization and Cloud Fundamentals
+- Currently exploring Cisco Networking
+- Learning Linux and Windows Server
+- Interested in Virtualization and Cloud
+- Building practical skills through hands-on labs
+- Documenting my learning journey on GitHub
 
-### Hands-on Projects
+---
 
-| Project | Description |
-|---------|-------------|
-| Basic Networking | IP addressing and subnetting |
-| VLAN Lab | VLAN and trunk configuration |
-| Routing Lab | Static and dynamic routing |
-| Server Lab | Windows and Linux administration |
+### 02 / Technologies & Tools
 
-### GitHub Profile
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME)
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,python,git,github,docker,aws,azure,vscode&perline=6" alt="Technology icons" />
+
+<br><br>
+
+**Networking**
+
+`TCP/IP` · `Cisco` · `VLAN` · `Routing` · `Switching` · `DNS` · `DHCP`
+
+**Infrastructure**
+
+`Linux` · `Windows Server` · `Virtualization` · `Cloud Fundamentals`
+
+</div>
+
+---
+
+### 03 / Hands-on Labs
+
+| Lab | Focus |
+|:---|:---|
+| Network Fundamentals | TCP/IP, Subnetting, OSI |
+| Cisco Packet Tracer | VLAN, Routing, Switching |
+| Linux Administration | CLI, Users, Permissions |
+| Windows Server | Active Directory, DNS, DHCP |
+| Infrastructure Security | Firewall, ACL, VPN |
+| Cloud Fundamentals | AWS, Azure, Virtual Machines |
+
+> Learning progress and lab documentation will
+> be added as projects are completed.
+
+---
+
+### 04 / GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=22d3ee&line=84cc16&point=ffffff&area=true&area_color=164e63&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Always learning. Always improving.</sub>
 
 </div>
